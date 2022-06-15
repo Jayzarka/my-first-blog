@@ -1,0 +1,1 @@
+[RU] Этот блог я делал по видеоуроку, и это мой первый почти функционирующий многостраничный сайт <br> [EN] I made this blog based on a video tutorial, and this is my first almost functioning multi-page site
